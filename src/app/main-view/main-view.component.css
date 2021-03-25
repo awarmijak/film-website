@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 1170px;
+  margin: auto;
+}
+
+header {
+  background: url("york-city.jpg");
+  height: 100vh;
+}
