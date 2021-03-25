@@ -5,6 +5,7 @@ import {AppComponent} from './app.component';
 import {MainViewComponent} from './main-view/main-view.component';
 import {Routes} from '@angular/router';
 
+
 const root: Routes = [{
   path: 'main',
   component: MainViewComponent
